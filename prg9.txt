@@ -46,7 +46,8 @@ labeling = dts.labels_
 colours1 = {}
 colours1[0] = 'r'
 colours1[1] = 'g'
-colours1[2] = 'b' colours1[3] = 'c'
+colours1[2] = 'b' 
+colours1[3] = 'c'
 colours1[4] = 'y'
 colours1[5] = 'm'
 colours1[-1] = 'k'
